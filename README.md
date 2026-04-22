@@ -98,8 +98,8 @@ POST /messages/sendMessage
 GET /messages/getMessages
 ```
 ## Security Features
-Password hashing using bcrypt
-JWT-based authentication
-Input validation with Joi
-CORS configuration
-Secure file upload via Cloudinary
+- Password hashing using bcrypt
+- JWT-based authentication
+- Input validation with Joi
+- CORS configuration
+- Secure file upload via Cloudinary
